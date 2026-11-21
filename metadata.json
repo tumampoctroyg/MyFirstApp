@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "A calm, focused student assignment tracker with weekly momentum tracking, subtask breakdowns, calendar deadlines, and subject organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
